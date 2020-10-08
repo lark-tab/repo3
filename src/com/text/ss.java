@@ -10,5 +10,7 @@ public class ss {
 
     public void ss(){
         int i = 9;
+
+        i += 10;
     }
 }
